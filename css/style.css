@@ -229,7 +229,7 @@ header nav ul li a:hover {
 
 header nav ul li a.active:after,
 header nav ul li a:hover:after {
-  content: '';
+  content: "";
   position: absolute;
   left: 10px;
   bottom: -20px;
@@ -388,7 +388,7 @@ header nav .form i {
   text-align: center;
 }
 
-@media (max-width:991px) {
+@media (max-width: 991px) {
   .services .srv-box {
     display: flex;
     flex-direction: column;
@@ -414,7 +414,7 @@ header nav .form i {
 }
 
 .services .srv-box i {
-  color: #000
+  color: #000;
 }
 /* End Services */
 /* Start About */
@@ -495,7 +495,7 @@ header nav .form i {
 /* Start Footer */
 footer {
   background-color: #333;
-  color: #EEE;
+  color: #eee;
   padding: 15px;
   font-size: 20px;
 }
@@ -506,7 +506,7 @@ footer .container {
 }
 
 footer .container .text i {
-  color: #F00;
+  color: #f00;
 }
 
 footer .container .text span {
@@ -521,7 +521,7 @@ footer .container .icons {
 
 footer .container .icons a i {
   cursor: pointer;
-  color: #FFF;
+  color: #fff;
 }
 
 footer .container .icons a i:hover {
